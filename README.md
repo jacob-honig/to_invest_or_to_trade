@@ -38,5 +38,5 @@ This project uses the aforementioned APIs to pull live data. This project also r
 # Usage
 
 # Contributors
-Jacob Honig jacobdhonig@gmail.com www.linkedin.com/jacob-honig/
+Jacob Honig jacobdhonig@gmail.com www.linkedin.com/jacob-honig/ <br/>
 Carl Frederick carljfrederick01@gmail.com www.linkedin.com/in/carl-j-frederick
