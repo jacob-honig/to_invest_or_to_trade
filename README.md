@@ -2,7 +2,7 @@
 To Invest or To Trade?
 
 # About
-This project aims to analyze the NASDAQ 100 index and to determine whether it is more profitable to trade in undervalued stocks or invest in them. This project contains two parts. 
+This project aims to analyze the NASDAQ 100 index and to determine whether it is more profitable to trade in undervalued stocks or to invest in them. This project contains two parts. 
 
 Part 1
 This part calculates a Robust Value score (RV Score) for each company by percentile ranking of financial ratios. 
