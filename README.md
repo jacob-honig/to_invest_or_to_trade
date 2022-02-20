@@ -20,10 +20,10 @@ open, high, low, close
 # Technologies
 This analysis was made using Python (v3.7.0), WindowsOS (v20H2), and Jupyter Lab.
 
-Part 1 Libraries
+Part 1 Libraries \n
 numpy, pandas, requests, xlsxwriter, math, pathlib (Path), scipy (stats), statistics (mean)
 
-Part 1 APIs
+Part 1 APIs \n
 IEX Cloud (https://iexcloud.io/)
 
 Part 2 Libraries
