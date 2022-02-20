@@ -48,7 +48,7 @@ Clone the repository and run the nasdaq_filter.ipynb file.
 Part 2 <br/>
 Clone the repository and run the moving_averages.ipynb file.
 
-To use the TITT web application, clone the repository and run the following command in your terminal: streamlit run titt.py. Note: you must run the command in the same directory the program is saved in.
+Clone the repository and run the following command in your terminal: streamlit run titt.py. Note: you must run the command in the same directory the program is saved in.
 
 # Contributors
 Jacob Honig jacobdhonig@gmail.com www.linkedin.com/jacob-honig/ <br/>
