@@ -4,13 +4,13 @@ To Invest or To Trade?
 # About
 This project aims to analyze the NASDAQ 100 index and to determine whether it is more profitable to trade in undervalued stocks or to invest in them. This project contains two parts. 
 
-Part 1
+Part 1 <br/>
 This part calculates a Robust Value score (RV Score) for each company by percentile ranking of financial ratios. 
 
 This part uses the following financial metrics/ratios: <br/>
 stock price, price/earnings, price/book, price/sales, ev/ebitda ev/gross profit
 
-Part 2
+Part 2 <br/>
 This part uses market data to calculate the exponential moving averages of the stocks selected in Part 1 to determine the most profitable set of moving averages. The days for the averages included in the analysis are all considered Fibonacci numbers. 
 
 This part uses the following financial metrics: <br/>
