@@ -55,6 +55,7 @@ When using this report, upload the filtered list of undervalued stocks from part
 
 Streamlit App
 Open terminal, navigate to the project_1 directory, and run titt.py using python: 
+
 ![Screen Shot 2022-02-20 at 6 02 56 PM](https://user-images.githubusercontent.com/95586624/154868278-858d648c-e6b1-43d8-98de-53c9a9db1ea1.png)
 
 
