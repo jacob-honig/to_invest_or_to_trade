@@ -33,5 +33,6 @@ Part 2 APIs <br/>
 Alpaca (https://alpaca.markets/)
 
 # Data
+This project uses the aforementioned APIs to pull live data. This project also reads files in CSV  and XLSX format. 
 
 # Usage
