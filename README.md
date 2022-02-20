@@ -17,7 +17,7 @@ This part uses the following financial metrics: <br/>
 open, high, low, close
 
 Streamlit Web App <br/>
-TITT (To Invest or To Trade?) web application provides visualization of Part 2's analysis. TITT features current market data, stock charts, and company details and information. Find the most profitable set of moving averages with a few clicks of your mouse. Start by selecting a stock from the menu, a time period, and find out which strategy is best for you.
+TITT (To Invest or To Trade?) web application provides visualization of Part 2's analysis. TITT features current market data, stock charts, and company details and information. Find the most profitable set of moving averages with a few clicks of your mouse. Start by selecting a stock from the menu, a time period, and evaluate the strategy for each stock.
 
 # Technologies
 This analysis was made using Python (v3.7.0), WindowsOS (v20H2), and Jupyter Lab.
