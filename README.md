@@ -44,6 +44,7 @@ This project uses the aforementioned APIs to pull live data. This project also r
 
 Part 1 <br/>
 When using this program, upload the list of NASDAQ stocks in the following format:
+
 ![Screen Shot 2022-02-20 at 6 10 19 PM](https://user-images.githubusercontent.com/95586624/154868524-2edb77b1-0b9f-4dc8-9206-783d8f4a1973.png)
 
 
@@ -53,7 +54,8 @@ When using this report, upload the filtered list of undervalued stocks from part
 ![Screen Shot 2022-02-20 at 5 59 37 PM](https://user-images.githubusercontent.com/95586624/154868184-b6b7bd85-aeab-42c3-9e3c-5938ce2de161.png)
 
 Streamlit App
-Open terminal, navigate to the project_1 directory, and run titt.py using python: ![Screen Shot 2022-02-20 at 6 02 56 PM](https://user-images.githubusercontent.com/95586624/154868278-858d648c-e6b1-43d8-98de-53c9a9db1ea1.png)
+Open terminal, navigate to the project_1 directory, and run titt.py using python: 
+![Screen Shot 2022-02-20 at 6 02 56 PM](https://user-images.githubusercontent.com/95586624/154868278-858d648c-e6b1-43d8-98de-53c9a9db1ea1.png)
 
 
 # Contributors
