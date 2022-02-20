@@ -46,6 +46,11 @@ Part 1 <br/>
 Clone the repository and run the nasdaq_filter.ipynb file.
 
 Part 2 <br/>
+When using this report, upload the filtered list of undervalued stocks from part 1 in the following format:
+
+![Screen Shot 2022-02-20 at 5 59 37 PM](https://user-images.githubusercontent.com/95586624/154868184-b6b7bd85-aeab-42c3-9e3c-5938ce2de161.png)
+
+
 Clone the repository and run the moving_averages.ipynb file.
 
 Clone the repository and run the following command in your terminal: streamlit run titt.py. Note: you must run the command in the same directory the program is saved in.
