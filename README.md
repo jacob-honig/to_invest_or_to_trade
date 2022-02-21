@@ -62,4 +62,4 @@ Open terminal, navigate to the project_1 directory, and run titt.py using python
 # Contributors
 Jacob Honig jacobdhonig@gmail.com www.linkedin.com/jacob-honig/ <br/>
 Carl Frederick carljfrederick01@gmail.com www.linkedin.com/in/carl-j-frederick <br/>
-Osama Mohamed
+Osama Mohamed osamahuss8@icloud.com
